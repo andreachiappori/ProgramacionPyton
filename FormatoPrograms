@@ -1,0 +1,43 @@
+#Este es formato en que deben presentar todos los programas realizados en Phyton
+ 
+#--------------------------
+#  Encabezado del programa
+#--------------------------
+#-Aca deben poner:
+#               1- Breve descripción del programa
+#               2- Version del mismo
+ 
+ 
+#--------------------------
+#Definición de librerías
+#--------------------------
+ 
+ 
+#--------------------------
+#Declaración de constantes
+#--------------------------
+ 
+ 
+#--------------------------
+# Declaración de variables globales
+#--------------------------
+ 
+ 
+#---------------------------------
+#Declaración de funciones y clases
+#---------------------------------
+ 
+ 
+#-------------------------------------------------
+#Declaración bloque de incialización si existiera
+#-------------------------------------------------
+ 
+ 
+#---------------------------------
+#Declaración de bloque principal
+#---------------------------------
+ 
+ 
+#---------------------------------------------------------------
+#Cierre del programa al salir del bloque principal si existiera.
+#---------------------------------------------------------------
